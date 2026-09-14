@@ -8,7 +8,6 @@ format:
     margin-header: |
       ![](/img/SCCDS.png)
       ![](/img/csuci_ds2.png)
-
 ---
 
 
@@ -24,7 +23,7 @@ format:
 4.  `TrapDate`
     - Date trap was investigated.
 5.  `NightNumber`
-    - Night the trap was investigated.
+    - Night the trap was ihttps://github.com/inqs909/ci_data_day_26nvestigated.
 6.  `TrapNumber`
     - Trap number.
 7. `TrapResult`

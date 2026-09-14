@@ -4,8 +4,6 @@ format: html
 ---
 
 
-:::
-
 ### Partner Campuses
 
 
