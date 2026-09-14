@@ -52,7 +52,8 @@ format:
     - The units of the weight of the captured animal.
 13. `BodyCondition`
     - The condition of the animals body.
-14.  `ReproductiveStatus`
+
+14. `ReproductiveStatus`
     - N - not active(ly reproductive) has not had kits this season (for females, for males we cannot tell)
     - L - lactating
     - SL - signs of lactation (but no longer actively lactating) has had kits this season
