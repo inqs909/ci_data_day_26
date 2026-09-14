@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+  resources: 
+    - "img/" 
+
+website:
+  title: "CSUCI Data Day"
+  repo-url: https://github.com/inqs909/ci_data_day_26
+  site-url: www.inqs.info/ci_data_day_26
+  navbar:
+    right:
+      - text: "Databook"
+        href: databook.qmd
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
+    
+
+
