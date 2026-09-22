@@ -61,7 +61,7 @@ format:
     - TD - testes distended (male ready to breed, we do not record this often as we specifically do not trap during breeding season which is Feb-March)
 
 15. `Vaccinations`
-    - N or NA - received no vaccine
+    - NV or NA - received no vaccine
     - R - received rabies vaccines
     - D - received canine distemper vaccine
     - C - received canine distemper vaccine
