@@ -8,6 +8,7 @@ format:
     margin-header: |
       ![](/img/SCCDS.png)
       ![](/img/csuci_ds2.png)
+      ![](/img/MathLogo(Updated).png)
 ---
 
 
